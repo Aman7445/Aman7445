@@ -4,5 +4,5 @@
 <li> :computer: Currently working on College projects</li>
 
 ## My Socials
-:twitter:<a href="https://twitter.com/Aman__74">
-:instagram:<a href="https://www.instagram.com/aman._.74/" >
+:twitter:<a href="https://twitter.com/Aman__74"/>
+:instagram:<a href="https://www.instagram.com/aman._.74/"/>

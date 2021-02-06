@@ -1,4 +1,4 @@
-## Hey there , I'm Aman 
+## Hey there :waving_hands: , I'm Aman 
 
 <li>:wind_chime: I'm a Sophomore CSE Undergrad at VIT Chennai</li>
 <li> :computer: Currently working on College projects</li>

@@ -1,5 +1,8 @@
 ## Hey there 👋 , I'm Aman 
 
+![Profile views](https://gpvc.arturio.dev/Aman7445)
+
+
 <li>:wind_chime: I'm a Sophomore CSE Undergrad at VIT Chennai</li>
 <li> :computer: Currently working on College projects</li>
 
@@ -8,7 +11,6 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-![Profile views](https://gpvc.arturio.dev/Aman7445)
 
 [instagram]: https://www.instagram.com/aman._.74/
 [twitter]: https://twitter.com/Aman__74

@@ -5,6 +5,8 @@
 
 <li>:wind_chime: I'm a Sophomore CSE Undergrad at VIT Chennai</li>
 <li> :computer: Currently working on College projects</li>
+<br >
+<br >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman7445)](https://github.com/anuraghazra/github-readme-stats)
 

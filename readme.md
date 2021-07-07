@@ -6,11 +6,11 @@
 <li> :computer: Currently learning React </li>
 <br >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman7445)](https://github.com/Aman7445/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman7445)](https://github.com/anuraghazra/github-readme-stats)
 
 ## My Socials
 
-[<img align="left" alt="Aman | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Aman | Twitter" width="22px" color="#ffffff src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Aman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Aman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 

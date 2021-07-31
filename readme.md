@@ -3,7 +3,8 @@
 ![Profile views](https://gpvc.arturio.dev/Aman7445)
 
 <li>:wind_chime: I'm a Sophomore CSE Undergrad at VIT Chennai</li>
-<li> :computer: I'm currently looking on contributing to Open Source </li>
+<li>:clipboard: I'm currently learning React</li>
+<li> :computer: I'm looking on contributing to Open Source </li>
 <br >
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman7445)](https://github.com/anuraghazra/github-readme-stats)

@@ -1,4 +1,4 @@
-## Hey there 👋 , I'm Aman
+## Hey there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> , I'm Aman
 
 ![Profile views](https://gpvc.arturio.dev/Aman7445)
 

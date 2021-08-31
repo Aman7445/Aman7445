@@ -7,7 +7,8 @@
 <li> :computer: I'm looking on contributing to Open Source. </li>
 <br >
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman7445)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman7445)](https://github.com/anuraghazra/github-readme-stats) -->
+<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Aman7445&theme=tokyonight&hide_langs_below=4'/>
 
 ## My Socials
 

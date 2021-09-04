@@ -4,13 +4,12 @@
 
 <li>:wind_chime: I'm a Junior CSE Undergrad at VIT Chennai.</li>
 <li>:clipboard: I'm currently learning React.</li>
-<li> :computer: I'm looking on contributing to Open Source. </li>
+<li>:computer: I'm looking on contributing to Open Source. </li>
 <br >
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aman7445)](https://github.com/anuraghazra/github-readme-stats) -->
-<img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Aman7445&theme=tokyonight&hide_langs_below=4'/>
+<!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Aman7445&theme=tokyonight&hide_langs_below=4'/> -->
 
-## My Socials
+## Connect with me :
 
 <a href="https://twitter.com/Aman__74">
     <img width="30px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />

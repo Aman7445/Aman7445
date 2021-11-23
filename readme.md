@@ -3,8 +3,8 @@
 ![Profile views](https://gpvc.arturio.dev/Aman7445)
 
 <li>:wind_chime: I'm a Junior CSE Undergrad at VIT Chennai.</li>
-<li>:computer: I'm looking on contributing to Open Source. </li>
 <li>:clipboard: Always looking to improve and learn new things </li>
+<!-- <li>:computer: </li> -->
 
 <br >
 

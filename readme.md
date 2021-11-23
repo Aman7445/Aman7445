@@ -3,8 +3,9 @@
 ![Profile views](https://gpvc.arturio.dev/Aman7445)
 
 <li>:wind_chime: I'm a Junior CSE Undergrad at VIT Chennai.</li>
-<li>:clipboard: I'm currently learning React.</li>
 <li>:computer: I'm looking on contributing to Open Source. </li>
+<li>:clipboard: Always looking to improve and learn new things </li>
+
 <br >
 
 <!-- <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Aman7445&theme=tokyonight&hide_langs_below=4'/> -->

@@ -2,7 +2,7 @@
 
 ![Profile views](https://gpvc.arturio.dev/Aman7445)
 
-<li>:wind_chime: I'm a Associate Software Developer in Oracle.</li>
+<li>:wind_chime: I'm an Associate Software Developer at Oracle.</li>
 <li>:clipboard: Always looking to improve and learn new things </li>
 <!-- <li>:computer: </li> -->
 
